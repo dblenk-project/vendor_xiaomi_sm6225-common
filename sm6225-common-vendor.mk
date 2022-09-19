@@ -836,7 +836,6 @@ PRODUCT_PACKAGES += \
     PowerOffAlarm \
     DeviceInfo \
     ImsRcsService \
-    QtiTelephony \
     QtiTelephonyService \
     uceShimService \
     WfdService \
